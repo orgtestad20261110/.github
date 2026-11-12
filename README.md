@@ -1,2 +1,3 @@
-# .github
-hello world
+just testing github organization settings
+
+ignore
